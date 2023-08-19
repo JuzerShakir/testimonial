@@ -10,7 +10,11 @@ module.exports = {
       lg2: "1250px",
       xl: "1440px",
     },
-    extend: {},
+    extend: {
+      fontFamily: {
+        sans: ["Barlow Semi Condensed", "sans-serif"],
+      },
+    },
   },
   plugins: [],
 };
