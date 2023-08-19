@@ -1,0 +1,24 @@
+{
+  "name": "testimonial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuzerShakir/testimonial.git"
+  },
+  "keywords": [
+    "css3",
+    "tailwindcss",
+    "grid"
+  ],
+  "author": "Juzer Shakir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuzerShakir/testimonial/issues"
+  },
+  "homepage": "https://github.com/JuzerShakir/testimonial#readme"
+}
